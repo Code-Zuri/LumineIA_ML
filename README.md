@@ -1,17 +1,5 @@
-# LumineIA ML Dashboard serio
+# LumineIA ML Dashboard
 
-Versión formal para presentación y demostración.
-
-## Mejoras
-- Diseño más serio.
-- Gráficas interactivas con zoom usando Plotly.
-- Resumen visible en la terminal.
-- Script independiente `terminal_summary.py`.
-- Sección clara para explicar la red neuronal.
-- Random Forest y Árbol de Decisión como modelos principales.
-- Métricas completas de clasificación y regresión.
-- Carga de CSV.
-- Generación de datos sintéticos.
 
 ## Instalación
 
@@ -54,11 +42,3 @@ El modelo principal recomendado sigue siendo Random Forest porque es más fácil
 de explicar frente a un público y permite mostrar qué variables influyen más.
 
 
-## Estilo visual
-
-Esta versión usa una interfaz oscura, moderna y minimalista:
-- fondo oscuro con degradado sutil
-- tarjetas limpias
-- métricas más presentables
-- gráficas Plotly interactivas con zoom
-- diseño más formal para exposición
